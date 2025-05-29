@@ -18,7 +18,7 @@ Desenvolver uma solução digital para a Assessoria de Inclusão que permita:
 - Gerar relatórios de atividades
 - Facilitar a gestão de informações relacionadas à inclusão
 
-- Uso de AI (Claude 3.7 Sonnet Thinking integrado ao editor de texto VSCode) para geração de todos os arquivos desse repositório dado o carater educativo do propósito dele. O conteúdo desse repositório foi intencionalmente gerado a partir de prompts contextualizados.
+- Uso de AI (Claude 3.7 Sonnet Thinking e GPT-4.1 integrado ao editor de texto VSCode, Github Copilot) para geração de todos os arquivos desse repositório dado o carater educativo do propósito dele. O conteúdo desse repositório foi intencionalmente gerado a partir de prompts contextualizados.
 
 ---
 
